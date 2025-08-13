@@ -72,21 +72,21 @@ The script includes a basic evaluation function:
      F1 Score: 0.50
 
 ## 📦 Technologies Used
-Python (Data processing & ML)
-Pandas & NumPy (Data manipulation)
-NLTK (Text processing & stemming)
-Scikit-learn (Vectorization & similarity calculation)
-Cosine Similarity (Similarity metric)
+- Python (Data processing & ML)
+- Pandas & NumPy (Data manipulation)
+- NLTK (Text processing & stemming)
+- Scikit-learn (Vectorization & similarity calculation)
+- Cosine Similarity (Similarity metric)
 
 ## 🚀 Future Improvements
-Implement TF-IDF Vectorization for better weighting.
-Add user-based and hybrid recommendation options.
-Build a web interface using Flask or Streamlit.
-Enhance evaluation with more comprehensive ground truth data.
-Integrate Large Language Models (LLMs) such as GPT, LLaMA, or Mistral to:
-Generate context-aware explanations for why a movie is recommended.
-Accept natural language queries like "Suggest me sci-fi movies like Inception but with more action".
-Use Agentic AI (Autonomous Agents) to:
-Continuously fetch and learn from new movie datasets.
-Adapt recommendations based on user viewing history and preferences over time.
-Combine multiple data sources (reviews, ratings, trailers) for more accurate, multi-modal recommendations.
+- Implement TF-IDF Vectorization for better weighting.
+- Add user-based and hybrid recommendation options.
+- Build a web interface using Flask or Streamlit.
+- Enhance evaluation with more comprehensive ground truth data.
+- Integrate Large Language Models (LLMs) such as GPT, LLaMA, or Mistral to:
+- Generate context-aware explanations for why a movie is recommended.
+- Accept natural language queries like "Suggest me sci-fi movies like Inception but with more action".
+- Use Agentic AI (Autonomous Agents) to:
+    - Continuously fetch and learn from new movie datasets.
+- Adapt recommendations based on user viewing history and preferences over time.
+- Combine multiple data sources (reviews, ratings, trailers) for more accurate, multi-modal recommendations.
